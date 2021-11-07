@@ -1,3 +1,3 @@
 ### Dumb Search
 
-[Live Site](https://dumb-search.netlify.app/search).
+[Live Site](https://dumb-search.netlify.app/)
